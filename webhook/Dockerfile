@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/knative-release/serving-cmd-activator:0c52e0a85612bbedebf6d0de2b1951a4f762a05691f86e78079a5089d4848652
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:a2938d3c0e913b74b96f69845cdc09d4674a465a0895f71db9afe76d805db853
