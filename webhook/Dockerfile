@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/knative-release/serving-cmd-controller:a168c9fa095c88b3e0bcbbaa6d4501a8a02ab740b360938879ae9df55964a758
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:c54682f20c4758aabd9e9a45805ae382ef9de8a953026a308273fb94b71719d5
