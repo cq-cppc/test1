@@ -1,1 +1,1 @@
-FROM docker.io/calico/cni:v3.25.0
+FROM rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
