@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.14.3
+FROM busybox:1.28
