@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.25.0
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:d95a9a4f82701e1668ed384cf1fa9dc7444230951cdb0b563b23a181d7608d15
