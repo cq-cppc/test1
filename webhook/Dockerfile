@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker@sha256:15b0b0ebabfcae35bac40f46095fbef68ddf5326360cd3a3f5fa40927537db0a
+FROM ruromero/cloudevents-player:latest
