@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.8.6
+FROM docker.io/calico/cni:v3.25.0
