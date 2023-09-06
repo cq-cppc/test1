@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/event_display
+FROM coredns/coredns:1.8.6
