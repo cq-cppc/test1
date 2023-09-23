@@ -1,1 +1,1 @@
-FROM docker.io/envoyproxy/envoy:v1.19-latest
+FROM gcr.io/knative-samples/autoscale-go:0.1
